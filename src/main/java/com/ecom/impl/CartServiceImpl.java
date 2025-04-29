@@ -1,4 +1,4 @@
-package com.ecom.service.impl;
+package com.ecom.impl;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.ecom.service.impl;
+package com.ecom.impl;
 
 import java.io.File;
 import java.nio.file.Files;
